@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acAuthNZ", "acAuthNZ.csproj", "{A7693F4B-5FA2-4B8F-9FA8-19F9F23A88AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7693F4B-5FA2-4B8F-9FA8-19F9F23A88AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7693F4B-5FA2-4B8F-9FA8-19F9F23A88AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7693F4B-5FA2-4B8F-9FA8-19F9F23A88AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7693F4B-5FA2-4B8F-9FA8-19F9F23A88AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7ADCFCD-5988-4D94-A92E-5B84A049886A}
+	EndGlobalSection
+EndGlobal
